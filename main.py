@@ -19,7 +19,7 @@ for folder_name in folders:
 
 for file in files:
 
-    if file ["main.py", "README.md", "LICENSE", ".gitignore":
+    if file ["main.py", "README.md", "LICENSE", ".gitignore"]:
         continue
 
     for folder_name in folders:
